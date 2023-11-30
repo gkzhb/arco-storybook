@@ -1,15 +1,12 @@
 {
-  "name": "intro-storybook-react-template",
-  "version": "0.2.0",
-  "description": "Starter template to get up and running quickly with React and Storybook",
-  "author": "Chromatic <https://chromatic.com/>",
+  "name": "arco-design-storybook-demos",
+  "version": "0.0.1",
+  "description": "trials of Arco Design",
+  "author": "gkzhb <gkzhb98@gmail.com>",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chromaui/intro-storybook-react-template"
-  },
-  "bugs": {
-    "url": "https://github.com/chromaui/intro-storybook-react-template/issues"
+    "url": "https://github.com/gkzhb/arco-storybook"
   },
   "license": "MIT",
   "private": true,
