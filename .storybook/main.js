@@ -11,6 +11,10 @@ const config = {
     name: "@storybook/react-vite",
     options: {},
   },
+  core: {
+    disableTelemetry: true,
+    disableWhatsNewNotifications: true,
+  },
   docs: {
     autodocs: "tag",
   },
