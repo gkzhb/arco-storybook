@@ -1,18 +1,16 @@
-import { Transfer } from './Transfer';
+import { Transfer } from "./Transfer";
 
 export default {
-  title: 'Example/Transfer',
+  title: "Example/Transfer",
   component: Transfer,
   // This component will have an automatically generated Autodocs entry: https://storybook.js.org/docs/react/writing-docs/autodocs
-  tags: ['autodocs'],
+  tags: ["autodocs"],
   parameters: {
     // More on how to position stories at: https://storybook.js.org/docs/react/configure/story-layout
-    layout: 'fullscreen',
+    layout: "fullscreen",
   },
 };
 
 export const LoggedIn = {
-  args: {
-  },
+  args: {},
 };
-
